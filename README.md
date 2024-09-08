@@ -5,7 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-miguel-0115471a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd5F7DHzWRTuZzgcb92imKQ%3D%3D)
 
 ![millenn GitHub stats](https://github-readme-stats.vercel.app/api?username=ujm01977&show_icons=true&theme=onedark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujm01977&exclude_repo=github-readme-stats,anuraghazra.github.io)
 ### Tecnologias que eu uso no meu dia a dia.
 
