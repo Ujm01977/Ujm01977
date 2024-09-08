@@ -6,7 +6,7 @@
 
 ![millenn GitHub stats](https://github-readme-stats.vercel.app/api?username=ujm01977&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujm01977&exclude_repo=github-readme-stats,anuraghazra.github.io)
 ### Tecnologias que eu uso no meu dia a dia.
 
 <div style="display: inline-block"><br/>
